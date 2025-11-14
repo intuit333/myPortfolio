@@ -1,1 +1,18 @@
-# myPortfolio
+# Open Scienct DB조사 및 실습 (7조)
+
+## 1. github
+**나만의 저장소 만들기**  
+→ https://github.com 접속 -> 가입 -> 저장소 만들기
+<img width="372" height="81" alt="image" src="https://github.com/user-attachments/assets/5763a98a-e562-4e15-ad01-8590ece724ce" />
+
+---
+
+## 2. PMC(Pubmed Central)
+**나만의 키워드로 논문 검색하기**
+-> https://pmc.ncbi.nlm.nih.gov/ 접속
+<img width="566" height="81" alt="image" src="https://github.com/user-attachments/assets/fe0f29ce-b037-4784-9dc9-4646ad7c5b23" />
+
+**나만의 키워드는 MeSH로 어떤 표현일까?**
+-> https://www.ncbi.nlm.nih.gov/mesh/ 접속
+
+---
