@@ -17,8 +17,12 @@
 -> https://pmc.ncbi.nlm.nih.gov/ 접속
 <img width="566" height="81" alt="image" src="https://github.com/user-attachments/assets/fe0f29ce-b037-4784-9dc9-4646ad7c5b23" />
 
+-> 자주 쓰는 TAG는?
+
+
 ---
 **나만의 키워드는 MeSH로 어떤 표현일까?**
 -> https://www.ncbi.nlm.nih.gov/mesh/ 접속
 
 ---
+
